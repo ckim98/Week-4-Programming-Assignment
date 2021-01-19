@@ -1,5 +1,5 @@
 This is a peer-graded assignment for Coursera
-Week Four of: Getting and Cleaning Data
+Week Four: Getting and Cleaning Data
 
 Access the CodeBook.md which describes the contents of the data and the process of the data cleaning.
 
