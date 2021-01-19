@@ -33,6 +33,7 @@ The dataset included the following files:
 2. Read the files including those in the test folder and train folder using read.table() function.
 
 Assignment Guidelines:
+
 - Merge data using the rbind() function merge subject test and subject train files, x_test and x_train files, and lastly y_test and y_train files.
 
 -rename columns
