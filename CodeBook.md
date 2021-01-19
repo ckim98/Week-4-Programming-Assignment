@@ -34,12 +34,19 @@ The dataset included the following files:
 
 Assignment Guidelines:
 - Merge data using the rbind() function merge subject test and subject train files, x_test and x_train files, and lastly y_test and y_train files.
+
 -rename columns
+
 -final merge of the data using cbind() function to combine previously merged subject, x , and y files
+
 -Extracts just the mean and standard deviation for each measurement
+
 -Use descriptive names to name the activities and replace the labels with descriptive variable names. Switched the columns names of the merged Y data with the activity labels and switch the column names of the merged X data with the features labels
+
 -Create an independent data set with the average of each variable
+
 -Get the mean for the activity and subject
+
 -Export the final tidy data that set that was produced into a text file under "tidy_data.txt"
 
 ### Cleaning of the data
